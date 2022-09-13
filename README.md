@@ -8,4 +8,3 @@
 
 This repository contains data downloaded from [ssa.gov](https://www.ssa.gov/) of the top 1000 most popular baby names by state (plus the District of Columbia)
 
-**TODO:** transfer ownership of repo to NCEAS GitHub Organization
